@@ -1,11 +1,12 @@
 {
-  "version" : "1.0",
-  "tags" : "Weapons",
   "author" : "pat nman",
-  "description" : "craftable plasma assault rifle but cheaper\n\nNew Recipe (still at replicator):\n* 1 dirt\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar",
-  "requires" : [],
-  "name" : "pat_cheapcraftableplasmaassaultrifle",
+  "description" : "craftable plasma assault rifle but cheaper\n\nNew Recipe (still at replicator):\n* 1 dirt",
   "friendlyName" : "cheaper craftable plasma assault rifle",
+  "link" : "steam://url/CommunityFilePage/2841362854",
+  "name" : "pat_cheapcraftableplasmaassaultrifle",
+  "requires" : [],
   "steamContentId" : "2841362854",
-  "link" : "steam://url/CommunityFilePage/2841362854"
+  "steamDescription" : "craftable plasma assault rifle but cheaper\n\nNew Recipe (still at replicator):\n* 1 dirt\n\n\nthis used to be a patch for another mod but that Media got Lost at some point. now it just adds a recipe (a cheap one). but i guess it isnt really Cheaper anymore its just cheap\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/cheaper-craftable-plasma-assault-rifle",
+  "tags" : "Weapons",
+  "version" : "1.1"
 }
